@@ -502,7 +502,7 @@
     },
 
     translateY: function (index, y, speed) {
-      this.translate(index, 0, y, speed)
+      this.translate(index, 0, 0, speed)
     },
 
     animate: function (from, to, speed) {
